@@ -66,7 +66,7 @@ public class TexturedShapes {
         uvCone(gl,0.5,1,32,10,5,true);
     }
 
-    public static void pyramid(GL2 gl) {uvCone(gl, 0.5,1,12,10,5,true);}
+    public static void pyramid(GL2 gl) {uvCone(gl, 0.5,1,8,10,5,true);}
 
     /**
      * Calls uvTorus(gl,0.5,1.0/6,48,72,true); to draw a torus with radii 1/6 and 1/2.  
